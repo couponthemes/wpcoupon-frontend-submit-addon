@@ -1,0 +1,1 @@
+# wp-coupon-frontend-submit-addon
