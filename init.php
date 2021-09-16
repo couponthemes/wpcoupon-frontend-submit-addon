@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:       WP Coupon Frontend Submit Addon
- * Plugin URI:        https://github.com/couponthemes/wp-coupon-frontend-submit-addon
+ * Plugin URI:        https://couponthemes.net/plugins/
  * Description:       Submit coupon on front-end.
  * Version:           1.0.0
  * Author:            Coupon Themes
